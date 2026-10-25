@@ -1,8 +1,6 @@
-<!-- Cseréld ki a YOUR_USERNAME részeket a saját GitHub felhasználónevedre -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Szekeres%20Zolt%C3%A1n&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Automation%20Developer%20%E2%80%A2%20Informatics%20Student&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Szekeres%20Zolt%C3%A1n&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20and%20Automation%20Developer%20%E2%80%A2%20Informatics%20Student&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+chatbotok+%26+automatiz%C3%A1ci%C3%B3;%C3%9Cgyf%C3%A9lkommunik%C3%A1ci%C3%B3s+megold%C3%A1sok;Cloud+%E2%80%A2+DevOps+%E2%80%A2+H%C3%A1l%C3%B3zat;%C3%9Czemm%C3%A9rn%C3%B6k+Informatikus+hallgat%C3%B3" alt="Typing SVG" />
